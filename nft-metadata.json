@@ -1,0 +1,15 @@
+{
+	"attributes": [
+		{
+			"trait_type": "Breed",
+			"value": "Maltipoo"
+		},
+		{
+			"trait_type": "Eye color",
+			"value": "Mocha"
+		}
+	],
+	"description": "",
+	"image": "ipfs://QmXWSkeAhEhdTRqt7ufd9qHjmncECo2tuwCgJGpP85GWZA",
+	"name": "Fox 1"
+}
